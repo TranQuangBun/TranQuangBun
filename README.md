@@ -60,8 +60,5 @@
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:tranquangbun293@gmail.com" target="_top">tranquangbun293@gmail.com</a></strong>
 </p>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
 
 
