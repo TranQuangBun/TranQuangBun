@@ -44,11 +44,6 @@
 </div>
 
 <br>
-<p>
-  <a>
-    <strong>( PHP Laravel , JavaScript , HTML/CSS , MongoDB , C++ , Java )</strong>
-  </a>
-</p>
   <br>
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/calllme.bun.293/" target="_blank">https://www.facebook.com/calllme.bun.293/</a></strong>
   <br>
